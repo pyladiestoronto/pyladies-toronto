@@ -13,27 +13,26 @@ To build the documentation locally:
 
 1. Clone the repository.
 
-   ::
-
-      git clone git@github.com:pyladiestoronto/pyladies-toronto.git
-
+```
+git clone git@github.com:pyladiestoronto/pyladies-toronto.git
+```
 
 2. Install sphinx.
 
-   ::
-
-      pip install Sphinx
+```
+pip install Sphinx
+```
 
 3. Build the documentation.
 
-   ::
+```
+make html
+```
 
-      make html
-
-4. View the output at: ``_/build/html/index.html``.
+4. View the output at: `_/build/html/index.html`.
 
 
 License
 -------
 
-`CC-BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/>`_.
+[CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/>)

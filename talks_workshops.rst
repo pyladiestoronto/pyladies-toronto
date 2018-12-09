@@ -45,3 +45,15 @@ April 25, 2017
 
 - GraphQL with Python by Christine Yu from the Ontario Institute for Cancer Research
 - Hosted by `Statflo <https://www.statflo.com/>`_
+
+March 28, 2017
+--------------
+
+- UX 101 by Hira Javed
+- Hosted by the Digital Media Zone (DMZ)
+
+Feb 16, 2017
+------------
+
+- Marketing for Developers by `Tracy Osborn <https://limedaring.com>`_
+- Hosted by `PagerDuty <https://www.pagerduty.com/>`_

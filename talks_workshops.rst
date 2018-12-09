@@ -33,3 +33,15 @@ June 27, 2017
 
 - A talk about CryptoRave, a 24 hour party/conference that takes place in Sao Paulo, Brazil by `Zeesy Powers <http://zeesypowers.com/>`_
 - Hosted by `Design Exchange <http://www.dx.org/>`_
+
+May 29, 2017
+------------
+
+- Ethics in Code by Abigail Cabunoc Mayes from the Mozilla Foundation
+- Hosted by `Wealthsimple <https://www.wealthsimple.com>`_
+
+April 25, 2017
+--------------
+
+- GraphQL with Python by Christine Yu from the Ontario Institute for Cancer Research
+- Hosted by `Statflo <https://www.statflo.com/>`_

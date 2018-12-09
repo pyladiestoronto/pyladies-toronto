@@ -6,7 +6,6 @@
 Welcome to PyLadies Toronto
 ============================
 
-
 PyLadies is an international mentorship group with a focus on helping more women
 become active participants and leaders in the Python open-source community. Our
 mission is to promote, educate and advance a diverse Python community through
@@ -44,3 +43,11 @@ License
 =======
 
 `CC-BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/>`_.
+
+Resources
+=========
+
+.. toctree::
+   :titlesonly:
+
+   talks_workshops

@@ -1,20 +1,22 @@
 .. _talks_workshops:
 
-Talks and Workshops
-===================
+Past Talks and Workshops
+========================
 
 A list of past PyLadies Toronto talks and workshops.
 
 We are always looking for speakers. Please fill in this `form <https://goo.gl/forms/sloM5ZZeEsZX19133>`_ to give a talk or 
 this `form <https://goo.gl/forms/3lJOV85rYwpRf9iG3>`_ to run a workshop. We'll back to you as soon as possible!
 
-You can also `suggest <https://goo.gl/forms/nGSj8jZpkMsF6Ck43>`_ a talk or workshop topic.
+You can also `suggest a talk or workshop topic <https://goo.gl/forms/nGSj8jZpkMsF6Ck43>`_.
 
 October 26, 2018
 ----------------
 
-- Making an Android Instant App by Dwija Patel from CBC
-- Hosted by `OANDA <http://oanda.com>`_
+*Making an Android Instant App*
+by Dwija Patel from CBC
+
+This talk was hosted by `OANDA <http://oanda.com>`_.
 
 Sept 25, 2017
 -------------

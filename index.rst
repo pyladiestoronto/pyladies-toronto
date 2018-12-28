@@ -30,8 +30,8 @@ Anyone attending PyLadies Toronto events is expected to abide by the PyLadies `C
 Conduct <https://www.pyladies.com/CodeOfConduct/>`_.
 
 
-Contact
-=======
+Contact Us
+==========
 
 - Meetup page: https://www.meetup.com/PyLadies-Toronto/
 - Send us an email: pyladiestoronto@gmail.com
@@ -51,3 +51,4 @@ Resources
    :titlesonly:
 
    talks_workshops
+   getting_involved

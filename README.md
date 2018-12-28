@@ -1,10 +1,9 @@
 Readme
 ======
 
-Online resources for [PyLadies Toronto meetup](https://www.meetup.com/PyLadies-Toronto/>).
+Online resources for [PyLadies Toronto meetup](https://www.meetup.com/PyLadies-Toronto/>). You can see the hosted version on `readthedocs` [here](https://pyladies-toronto.readthedocs.io/en/latest/).
 
 (adapted from [PyLadies Vancouver](https://github.com/pyladies-vancouver/pyladies-vancouver))
-
 
 Building the documentation locally
 ----------------------------------

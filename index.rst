@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to PyLadies Toronto
+Welcome to PyLadies Toronto!
 ============================
 
 PyLadies is an international mentorship group with a focus on helping women

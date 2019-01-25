@@ -10,52 +10,21 @@ this `form <https://goo.gl/forms/3lJOV85rYwpRf9iG3>`_ to run a workshop. We'll b
 
 You can also `suggest a talk or workshop topic <https://goo.gl/forms/nGSj8jZpkMsF6Ck43>`_.
 
-October 26, 2018
-----------------
+January 24th, 2019
+-------------------
 
-*Making an Android Instant App*
-by Dwija Patel from CBC
+Our PyLadies 2019 kick-off was held at `Instacart's <https://www.instacart.com/>`_ Toronto office and was a great success!
 
-This talk was hosted by `OANDA <http://oanda.com>`_.
+.. image:: imgs/instacart_event_jan_24_2019.png
+  :width: 70%
 
-Sept 25, 2017
--------------
+The line-up:
+~~~~~~~~~~~~
 
-- How to Read a Scientific Paper by Cindy Narinesingh from the Eye Movement and Vision Neuroscience lab at the Hospital for Sick Children
-- Hosted by `Points <https://www.points.com/>`_
+- **Migrating from Python 2 to Python 3: Lessons Learnt and Pitfalls Navigated.** Presented by Kristen and Mariam.
+- **Empowering Patients through Machine Learning Driven Personalized Digital Health Interventions.** Presented by Mareena. See slides `here. <https://speakerdeck.com/pyladiesto/empowering-patients-through-machine-learning-driven-health-interventions>`_
+- **A Background Erasor Tool in Python.** Presented by Deepika. See slides `here. <https://speakerdeck.com/pyladiesto/a-background-eraser-tool-in-python>`_
+- **Know Your Editor and Tools.** Presented by Anna.
 
-August 23, 2017
-----------------
 
-- Workshop your CfP Submissions 
-- Hosted by `HackLab.TO <http://hacklab.to/>`_
 
-June 27, 2017
---------------
-
-- A talk about CryptoRave, a 24 hour party/conference that takes place in Sao Paulo, Brazil by `Zeesy Powers <http://zeesypowers.com/>`_
-- Hosted by `Design Exchange <http://www.dx.org/>`_
-
-May 29, 2017
-------------
-
-- Ethics in Code by Abigail Cabunoc Mayes from the Mozilla Foundation
-- Hosted by `Wealthsimple <https://www.wealthsimple.com>`_
-
-April 25, 2017
---------------
-
-- GraphQL with Python by Christine Yu from the Ontario Institute for Cancer Research
-- Hosted by `Statflo <https://www.statflo.com/>`_
-
-March 28, 2017
---------------
-
-- UX 101 by Hira Javed
-- Hosted by the Digital Media Zone (DMZ)
-
-Feb 16, 2017
-------------
-
-- Marketing for Developers by `Tracy Osborn <https://limedaring.com>`_
-- Hosted by `PagerDuty <https://www.pagerduty.com/>`_
